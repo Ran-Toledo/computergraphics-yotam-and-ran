@@ -2,10 +2,8 @@
 ## Students Team data
 
 Name: Yotam Gurfinkel  
-Student Number: 323959668
 
 Name: Ran Toledo  
-Student Number: 204880843
 
 ### Lecturer
 *Roi Poranne*
